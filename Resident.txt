@@ -1,0 +1,6 @@
+Permit_Id,issue_date,Name,Level
+1,01/01/2020,John,1
+2,01/02/2020,Mike,3
+3,01/03/2020,Jackson,4
+4,02/04/2020,Rohit,2
+
